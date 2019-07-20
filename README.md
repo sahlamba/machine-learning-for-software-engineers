@@ -12,9 +12,9 @@
   </a>
 </p>
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+Inspired by [Coding Interview University](https://github.com/jwasham/coding-interview-university).
 
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-fr-FR.md)
+Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-fr-FR.md) | [臺灣華語版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-TW.md)
 
 [How I (Nam Vu) plan to become a machine learning engineer](https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk)
 

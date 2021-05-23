@@ -122,7 +122,7 @@ from public sources and replacing the online course videos over time. I like usi
 
 ## Prerequisite Knowledge
 
-This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+This short section consists of prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
 - [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
@@ -140,13 +140,13 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## Machine learning overview
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [ ] [Gentle Guide to Machine Learning](https://blog.monkeylearn.com/gentle-guide-to-machine-learning/)
 - [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
 - [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 - [ ] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
-- [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
+- ~~[] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)~~[removed]
 
 ## Machine learning mastery
 - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
@@ -243,6 +243,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ ] [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
+- [ ] [How Machine Learning Works (MEAP)](https://www.manning.com/books/how-machine-learning-works)
+    - [GitHub repository](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
+- [ ] [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -342,9 +345,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+- [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
+- [Machine Learning Online Courses](https://classpert.com/machine-learning)
 
 ## Games
 - [Halite: A.I. Coding Game](https://halite.io/)
@@ -372,6 +376,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Data Skeptic](http://dataskeptic.com/)
     - [This Week in Machine Learning & AI](https://twimlai.com/)
     - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+    
+- ### Interviews with ML Practitioners, Researchers and Kagglers about their Joureny
+    - [Chai Time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x), [Audio](http://anchor.fm/chaitimedatascience), [Writeups](https://sanyambhutani.com/tag/chaitimedatascience/)
+    - [Machine Learning for Beginners - Interviews](https://www.youtube.com/channel/UCdZ0GX-F3ULMKfxtyzSFbaw), [Audio](https://jayshah.buzzsprout.com/)
 
 - ### "More" advanced podcasts
     - [Partially Derivative](http://partiallyderivative.com/)
@@ -380,7 +388,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
-
+    
 ## Communities
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
@@ -422,7 +430,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
 - [ ] [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
-
+- [ ] [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
